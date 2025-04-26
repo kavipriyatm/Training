@@ -1,0 +1,4 @@
+2025-03-20 14:48:28,115 - INFO - Started processing D:\DS-DAY3\housing.csv
+2025-03-20 14:48:28,116 - INFO - Started processing D:\DS-DAY3\USA Housing Dataset.csv
+2025-03-20 14:48:28,138 - INFO - Finished processing D:\DS-DAY3\USA Housing Dataset.csv, Mean: 553062.8772890784
+2025-03-20 14:48:28,155 - INFO - Finished processing D:\DS-DAY3\housing.csv, Mean: 206855.81690891474
